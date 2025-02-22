@@ -13,6 +13,3 @@ Features :-
 Prerequisites :-
 1) Java JDK 8 or later (to compile and run the program).
 2) A terminal or IDE (e.g., IntelliJ, Eclipse) to execute the code.
-
-
-
