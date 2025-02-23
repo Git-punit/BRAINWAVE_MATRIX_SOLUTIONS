@@ -2,7 +2,7 @@
 
 A simple console-based ATM interface program written in Java, designed to simulate basic ATM functionalities such as checking balances, deposits, withdrawals, and transaction history
 
-Features :-
+<b>Features <b>:-
 1) User Authentication: Enter a User ID and PIN to access the ATM.
 2) Check Balance: View the current account balance.
 3) Deposit Funds: Add funds to the account.
