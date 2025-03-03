@@ -10,6 +10,6 @@ A simple console-based ATM interface program written in Java, designed to simula
 5) Transaction History: View a list of recent transactions.
 6) Exit: Safely exit the application.
 
-Prerequisites :-
+<h1>Prerequisites :-</h1>
 1) Java JDK 8 or later (to compile and run the program).
 2) A terminal or IDE (e.g., IntelliJ, Eclipse) to execute the code.
