@@ -1,6 +1,6 @@
 # BRAINWAVE_MATRIX_SOLUTIONS
 
-A simple console-based ATM interface program written in Java, designed to simulate basic ATM functionalities such as <b>checking balances</b>, <b>deposits</b>, <b>withdrawals</b>, and <b><p class="uppercase">transaction history</b>.
+A simple console-based ATM interface program written in Java, designed to simulate basic ATM functionalities such as <b>checking balances</b>, <b>deposits</b>, <b>withdrawals</b>, and <b class="uppercase">transaction history</b>.
 
 <h1>Features :</h1>-
 <ol> <li> <i><b>User Authentication:</b></i> Enter a User ID and PIN to access the ATM.</li>
