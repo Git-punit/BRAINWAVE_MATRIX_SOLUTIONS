@@ -103,13 +103,13 @@ public class ATM {
     private static void depositMoney() {
         System.out.print("Enter amount to deposit: ");
         if (sc.hasNextInt()) {
-            int deposit = sc.nextInt();
-            if (deposit <= 0) {
+            int depositt = sc.nextInt();
+            if (depositt <= 0) {
                 System.out.println("Deposit amount must be positive.");
             } else {
-                balance += deposit;
+                balance += depositt;
                 System.out.println("Deposit successful.");
-                transactionHistory.add("Deposited: $" + deposit);
+                transactionHistory.add("Deposited: $" + depositt);
                 System.out.println("Current Balance: $" + balance);
             }
         } else {
